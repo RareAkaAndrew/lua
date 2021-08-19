@@ -1,1 +1,2 @@
+--just simply copy the loadstring below, and paste it into your executor. works with krnl and good exploits.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RareAkaAndrew/lua/main/RARE%20X'))()
